@@ -1,0 +1,9 @@
+# Hello, and welcome to Intro to Python for Data Analytics with Vets in Tech, brought to you by DRAFT KINGS!
+
+# By the end of this course you will have an understanding of fundamental programming with Python and how to use the power of computing to automate repetitive tasks.  You will learn how to pull information from both static & online data resources, manipulate the data, and reformat it for your own purposes.  You will learn how approach complex problems, break them down into steps, and then solve each part in isolation.  You will also gain the foundation needed to go beyond the course and pursue your own objectives afterwards.
+
+# IT HELPS IF YOU HAVE A CLEAR GOAL.  If this is your first programming course, know this: programming is HARD!  It can be demoralizing.  When solving problems, your failures will outnumber your successes.  You can maintain your motivation by having a specific goal in mind, such as solving a problem at work, an idea for an app, or a strong desire to move into a specific field.
+
+# WE ARE HERE AS A TEAM.  We understand that we have people from all different backgrounds and technical abilities joining us.  It is important to not just ask your instructors questions, but also consult with your classmates.  They should ideally be your FIRST resource, as it gives everyone the opportunity to learn through teaching & discussion.
+
+# What you are looking at right now is a Readme file in a Github "repository", or "repo".   A repository is a location containing stored information and data about users, people, computers, or other important information.  Throughout the course we will be working with, and creating our own repos.  However at this moment, your mission is simply to create a Github account and look at the other files in this repo.  You will find further instructions in the files.
