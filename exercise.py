@@ -11,4 +11,4 @@
 #     tpritchard@vetsintech.co
 #     dkim@vetsintech.co
 
-# We will not share it.
+# We will not share it.  Once you are done, return to the main page and click on the "practice.py" file.
